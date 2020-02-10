@@ -1,2 +1,2 @@
 # compsci-site
-Comp sci site
+A site for computer science
